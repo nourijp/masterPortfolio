@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Portfolio-site.sublime-project",
-			"settings":
-			{
-				"buffer_size": 47,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -49,11 +40,74 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/hamed/Downloads/Hamed N Portfolio Site"
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean"
 	],
 	"file_history":
 	[
+		"/Users/hamed/Portfolio",
+		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/media/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-premier-pro/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/procreate/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/procreate/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/photoshop/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/photoshop/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/notion/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/notion/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/more-skills/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/more-skills/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/microsoft-windows/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/microsoft-windows/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/macos-ios-ipados/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/macos-ios-ipados/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/linux/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/linux/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/indesign/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/indesign/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/illustrator/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/illustrator/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/html/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/html/html.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/google-analytics/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/google-analytics/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/github/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/github/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/facebook-creator/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/facebook-creator/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/css/index2.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/css/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-premier-pro/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-audition/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe-animate/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/index.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Portfolio-site.sublime-project",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/Index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/adobe/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/zayn-myza/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/wwoof-japan/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/university-of-texas/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/university-of-north-texas/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/ukm/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/mmanga/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/diydaisy/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/fans-conference/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/ieli/ieli.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/jet-programme/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Experience/aya-sura/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/manga/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/edit/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/childrens-books/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/Photography/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/web/web.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/writingediting/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/home.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/voice/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/social-media-accomplishments/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/web/index.html",
+		"/Users/hamed/Downloads/Hamed N Portfolio Site/Work/webtoons/index.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Wordpress.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - ProCreate.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Skills/Hamed N. - Photoshop.html",
@@ -96,7 +150,6 @@
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Awards/Hamed N. - Jet Kizuna Ambassador.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/Life-in-Hokkaido.html",
 		"/Users/hamed/Downloads/Hamed N Portfolio Site/Media/index.html",
-		"/Users/hamed/Downloads/Hamed N Portfolio Site/Index.html",
 		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/src/portfolio.js",
 		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/package.json",
 		"/Users/hamed/Documents/GitHub/masterPortfolio-clean/src/pages/splash/Splash.js",
@@ -118,30 +171,7 @@
 		"/Users/hamed/Documents/3. Resources/Raycast Scripts/legal.sh",
 		"/Users/hamed/Documents/3. Resources/Raycast Scripts/work-cc-main.sh",
 		"/Users/hamed/Documents/3. Resources/Raycast Scripts/learn-japanese.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Learn-Japanese.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Work-cc2.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Work-cc.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/3d-print.sh",
-		"/Users/hamed/Documents/3. Resources/Commands/update_icons.command",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/no-menu-bar.sh",
-		"/Users/hamed/Downloads/(一般コミック)俺だけレベルアップな件 vol 01-19/DLRAW.TO_Ore Dake Reberu Appu na ken v01-02/DLRAW.TO_[DUBU×Chugong] 俺だけレベルアップな件 第01巻/俺だけレベルアップな件 第01/ComicInfo.xml",
-		"/Users/hamed/Documents/2. Areas/Hobby & Customization/WinterBreak/README.md",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/furigana.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/furigana2.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/furigana copy.sh",
-		"/Volumes/homes/zhar/Notes/Main/Zhar/Tasks/Tasks.md",
-		"/Users/hamed/restart-supercharge.sh",
-		"/Users/hamed/Documents/3. Resources/Commands/update_brave_beta_icon.command",
-		"/Users/hamed/Downloads/update_brave_beta_icon.command",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/change-brave-icon.sh",
-		"/Users/hamed/Documents/2. Areas/Drive/SynologyDrive/Obsidian/Obsidian/.obsidian/snippets/tasks-to-do-panel.css",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/fast-track.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Change Audio Input to Fast Track.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/audio-input.sh",
-		"/Users/hamed/Documents/3. Resources/audio-input.sh",
-		"/Users/hamed/Documents/3. Resources/Raycast Scripts/audio_input.sh",
-		"/Users/hamed/Documents/2. Areas/Drive/SynologyDrive/Obsidian/Obsidian/.obsidian/themes/Everforest/theme.css",
-		"/Users/hamed/Documents/2. Areas/Drive/SynologyDrive/Obsidian/Obsidian/.obsidian/themes/Everforest/manifest.json"
+		"/Users/hamed/Documents/3. Resources/Raycast Scripts/Learn-Japanese.sh"
 	],
 	"find":
 	{
@@ -180,38 +210,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Portfolio-site.sublime-project",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 47,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -251,7 +249,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Portfolio-site.sublime-project",
+	"project": "portfolio.sublime-project",
 	"replace":
 	{
 		"height": 44.0
