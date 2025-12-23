@@ -68,7 +68,11 @@ Each page needs a unique `<meta name="description" content="...">` tag.
 ### Task 3.1: Update Canonical URLs ✅ COMPLETE
 All `ncc.myportfolio.com` canonical links replaced with `hamednouri.com`.
 
-**Note:** `cdn.myportfolio.com` references for images are intentionally kept - they serve images from Adobe's CDN which is good for performance.
+### Task 3.1b: Download CDN Images Locally ✅ COMPLETE
+- Downloaded 152 images from `cdn.myportfolio.com` to `/cdn_images/` folder
+- Updated all HTML files to reference local images
+- Total local images: 123MB
+- Removes external dependency on Adobe Portfolio CDN
 
 ### Task 3.2: Update Internal Navigation Links ⬜
 - [ ] Check all `<a href="...">` links pointing to myportfolio.com
