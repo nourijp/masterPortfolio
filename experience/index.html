@@ -51,7 +51,61 @@
       font-display: auto;
     }
   </style>
-  <style type="text/css"></style>
+  <style type="text/css">
+    /* Sub-navigation for Experience page */
+    .experience-subnav {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      padding: 12px 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      margin-bottom: 20px;
+    }
+
+    .experience-subnav-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 40px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .experience-subnav a {
+      color: #333;
+      text-decoration: none;
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 0.9em;
+      font-weight: 500;
+      transition: all 0.2s ease;
+      background: rgba(0, 0, 0, 0.05);
+    }
+
+    .experience-subnav a:hover {
+      background: #059669;
+      color: white;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    @media (max-width: 768px) {
+      .experience-subnav-inner {
+        padding: 0 15px;
+        gap: 6px;
+      }
+
+      .experience-subnav a {
+        padding: 6px 12px;
+        font-size: 0.8em;
+      }
+    }
+  </style>
 </head>
 
 <body class="link-transition disable-download">
@@ -111,8 +165,19 @@
             </header>
           </section>
 
+          <!-- Sub-navigation -->
+          <nav class="experience-subnav">
+            <div class="experience-subnav-inner">
+              <a href="#work">Work</a>
+              <a href="#projects">Projects</a>
+              <a href="#education">Education</a>
+              <a href="#certifications">Certifications</a>
+              <a href="#volunteer">Volunteer</a>
+            </div>
+          </nav>
+
           <!-- Work Experience Section -->
-          <section class="page standard-modules" style="padding-bottom: 0; padding-top: 20px;">
+          <section id="work" class="page standard-modules" style="padding-bottom: 0; padding-top: 20px;">
             <header class="page-header content" style="padding-bottom: 0;">
               <h2 class="title preserve-whitespace" style="font-size: 1.8em;">Work Experience</h2>
             </header>
@@ -397,7 +462,7 @@
           </section>
 
           <!-- Projects Section -->
-          <section class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
+          <section id="projects" class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
             <header class="page-header content" style="padding-bottom: 0;">
               <h2 class="title preserve-whitespace" style="font-size: 1.8em;">Projects</h2>
             </header>
@@ -509,7 +574,7 @@
           </section>
 
           <!-- Education Section -->
-          <section class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
+          <section id="education" class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
             <header class="page-header content" style="padding-bottom: 0;">
               <h2 class="title preserve-whitespace" style="font-size: 1.8em;">Education</h2>
             </header>
@@ -583,7 +648,7 @@
           </section>
 
           <!-- Certifications Section -->
-          <section class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
+          <section id="certifications" class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
             <header class="page-header content" style="padding-bottom: 0;">
               <h2 class="title preserve-whitespace" style="font-size: 1.8em;">Certifications</h2>
             </header>
@@ -680,7 +745,7 @@
           </section>
 
           <!-- Volunteer Section -->
-          <section class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
+          <section id="volunteer" class="page standard-modules" style="padding-bottom: 0; padding-top: 40px;">
             <header class="page-header content" style="padding-bottom: 0;">
               <h2 class="title preserve-whitespace" style="font-size: 1.8em;">Volunteer</h2>
             </header>
