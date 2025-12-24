@@ -54,14 +54,13 @@
   <style type="text/css">
     /* Sub-navigation for Experience page */
     .experience-subnav {
-      background: rgba(255, 255, 255, 0.95);
-      backdrop-filter: blur(10px);
-      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-      padding: 12px 0;
+      background: #2d2d2d;
+      padding: 10px 0;
       position: sticky;
       top: 0;
       z-index: 100;
-      margin-bottom: 20px;
+      margin: 0;
+      border-bottom: none;
     }
 
     .experience-subnav-inner {
@@ -69,24 +68,24 @@
       margin: 0 auto;
       padding: 0 40px;
       display: flex;
-      gap: 8px;
+      gap: 6px;
       flex-wrap: wrap;
       justify-content: center;
     }
 
     .experience-subnav a {
-      color: #333;
+      color: #ccc;
       text-decoration: none;
-      padding: 8px 16px;
-      border-radius: 20px;
-      font-size: 0.9em;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 0.85em;
       font-weight: 500;
       transition: all 0.2s ease;
-      background: rgba(0, 0, 0, 0.05);
+      background: transparent;
     }
 
     .experience-subnav a:hover {
-      background: #059669;
+      background: rgba(255, 255, 255, 0.15);
       color: white;
     }
 
@@ -97,12 +96,12 @@
     @media (max-width: 768px) {
       .experience-subnav-inner {
         padding: 0 15px;
-        gap: 6px;
+        gap: 4px;
       }
 
       .experience-subnav a {
-        padding: 6px 12px;
-        font-size: 0.8em;
+        padding: 5px 10px;
+        font-size: 0.75em;
       }
     }
   </style>
