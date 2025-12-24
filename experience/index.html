@@ -54,13 +54,10 @@
   <style type="text/css">
     /* Sub-navigation for Experience page */
     .experience-subnav {
-      background: #2d2d2d;
-      padding: 10px 0;
-      position: sticky;
-      top: 0;
-      z-index: 100;
+      background: #e8e8e7;
+      padding: 8px 0;
       margin: 0;
-      border-bottom: none;
+      border-bottom: 1px solid #ddd;
     }
 
     .experience-subnav-inner {
@@ -74,7 +71,7 @@
     }
 
     .experience-subnav a {
-      color: #ccc;
+      color: #666;
       text-decoration: none;
       padding: 6px 14px;
       border-radius: 4px;
@@ -85,8 +82,8 @@
     }
 
     .experience-subnav a:hover {
-      background: rgba(255, 255, 255, 0.15);
-      color: white;
+      background: rgba(0, 0, 0, 0.08);
+      color: #333;
     }
 
     html {
@@ -153,6 +150,18 @@
         </div>
       </nav>
     </header>
+
+    <!-- Sub-navigation attached to header -->
+    <nav class="experience-subnav">
+      <div class="experience-subnav-inner">
+        <a href="#work">Work</a>
+        <a href="#projects">Projects</a>
+        <a href="#education">Education</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#volunteer">Volunteer</a>
+      </div>
+    </nav>
+
     <div class="site-container">
       <div class="site-content e2e-site-content">
         <main>
@@ -163,17 +172,6 @@
               <p class="description">Professional work experience, projects, education, and more.</p>
             </header>
           </section>
-
-          <!-- Sub-navigation -->
-          <nav class="experience-subnav">
-            <div class="experience-subnav-inner">
-              <a href="#work">Work</a>
-              <a href="#projects">Projects</a>
-              <a href="#education">Education</a>
-              <a href="#certifications">Certifications</a>
-              <a href="#volunteer">Volunteer</a>
-            </div>
-          </nav>
 
           <!-- Work Experience Section -->
           <section id="work" class="page standard-modules" style="padding-bottom: 0; padding-top: 20px;">
